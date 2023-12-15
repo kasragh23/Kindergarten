@@ -1,0 +1,20 @@
+C:\Users\Parsiyan\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Parsiyan\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Parsiyan\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Parsiyan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\Kindergarten DB.csprojResolveAssemblyReference.cache
+C:\Users\Parsiyan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Parsiyan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Parsiyan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\Kindergarten DB.csproj.GenerateResource.Cache
+C:\Users\Parsiyan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Parsiyan\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Parsiyan\Documents\Visual Studio 2015\Projects\Kindergarten DB\Kindergarten DB\bin\Debug\Kindergarten DB.exe.config
+C:\Users\Parsiyan\Documents\Visual Studio 2015\Projects\Kindergarten DB\Kindergarten DB\bin\Debug\Kindergarten DB.exe
+C:\Users\Parsiyan\Documents\Visual Studio 2015\Projects\Kindergarten DB\Kindergarten DB\bin\Debug\Kindergarten DB.pdb
+C:\Users\Parsiyan\Documents\Visual Studio 2015\Projects\Kindergarten DB\Kindergarten DB\obj\Debug\Kindergarten DB.csprojResolveAssemblyReference.cache
+C:\Users\Parsiyan\Documents\Visual Studio 2015\Projects\Kindergarten DB\Kindergarten DB\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Parsiyan\Documents\Visual Studio 2015\Projects\Kindergarten DB\Kindergarten DB\obj\Debug\Kindergarten DB.csproj.GenerateResource.Cache
+C:\Users\Parsiyan\Documents\Visual Studio 2015\Projects\Kindergarten DB\Kindergarten DB\obj\Debug\Kindergarten DB.exe
+C:\Users\Parsiyan\Documents\Visual Studio 2015\Projects\Kindergarten DB\Kindergarten DB\obj\Debug\Kindergarten DB.pdb
+C:\Users\Parsiyan\Documents\Visual Studio 2015\Projects\Kindergarten DB\Kindergarten DB\obj\Debug\WindowsFormsApplication1.Register.resources
+C:\Users\Parsiyan\Documents\Visual Studio 2015\Projects\Kindergarten DB\Kindergarten DB\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Parsiyan\Documents\Visual Studio 2015\Projects\Kindergarten DB\Kindergarten DB\obj\Debug\WindowsFormsApplication1.Main.resources
